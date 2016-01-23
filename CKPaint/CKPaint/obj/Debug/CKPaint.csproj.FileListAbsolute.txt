@@ -1,0 +1,23 @@
+C:\Users\Security\Documents\Visual Studio 2013\Projects\Paint Uygulaması\CKPaint\CKPaint\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Security\Documents\Visual Studio 2013\Projects\Paint Uygulaması\CKPaint\CKPaint\bin\Debug\Microsoft.Web.Infrastructure.xml
+C:\Users\Security\Documents\Visual Studio 2013\Projects\Paint Uygulaması\CKPaint\CKPaint\obj\Debug\CKPaint.About.resources
+C:\Users\Security\Documents\Visual Studio 2013\Projects\Paint Uygulaması\CKPaint\CKPaint\obj\Debug\CKPaint.NewPage.resources
+C:\Users\Security\Documents\Visual Studio 2013\Projects\Paint Uygulaması\CKPaint\CKPaint\obj\Debug\CKPaint.CKPaint.resources
+C:\Users\Security\Documents\Visual Studio 2013\Projects\Paint Uygulaması\CKPaint\CKPaint\obj\Debug\CKPaint.Properties.Resources.resources
+C:\Users\Security\Documents\Visual Studio 2013\Projects\Paint Uygulaması\CKPaint\CKPaint\obj\Debug\CKPaint.csproj.GenerateResource.Cache
+C:\Users\Security\Documents\Visual Studio 2013\Projects\Paint Uygulaması\CKPaint\CKPaint\bin\Debug\CKPaint.exe.config
+C:\Users\Security\Documents\Visual Studio 2013\Projects\Paint Uygulaması\CKPaint\CKPaint\bin\Debug\CKPaint.exe
+C:\Users\Security\Documents\Visual Studio 2013\Projects\Paint Uygulaması\CKPaint\CKPaint\bin\Debug\CKPaint.pdb
+C:\Users\Security\Documents\Visual Studio 2013\Projects\Paint Uygulaması\CKPaint\CKPaint\obj\Debug\CKPaint.csprojResolveAssemblyReference.cache
+C:\Users\Security\Documents\Visual Studio 2013\Projects\Paint Uygulaması\CKPaint\CKPaint\obj\Debug\CKPaint.exe
+C:\Users\Security\Documents\Visual Studio 2013\Projects\Paint Uygulaması\CKPaint\CKPaint\obj\Debug\CKPaint.pdb
+C:\Users\Security\Documents\Visual Studio 2015\Projects\WindowsApplication\CKPaint\CKPaint\bin\Debug\CKPaint.exe.config
+C:\Users\Security\Documents\Visual Studio 2015\Projects\WindowsApplication\CKPaint\CKPaint\bin\Debug\CKPaint.exe
+C:\Users\Security\Documents\Visual Studio 2015\Projects\WindowsApplication\CKPaint\CKPaint\bin\Debug\CKPaint.pdb
+C:\Users\Security\Documents\Visual Studio 2015\Projects\WindowsApplication\CKPaint\CKPaint\obj\Debug\CKPaint.About.resources
+C:\Users\Security\Documents\Visual Studio 2015\Projects\WindowsApplication\CKPaint\CKPaint\obj\Debug\CKPaint.NewPage.resources
+C:\Users\Security\Documents\Visual Studio 2015\Projects\WindowsApplication\CKPaint\CKPaint\obj\Debug\CKPaint.CKPaint.resources
+C:\Users\Security\Documents\Visual Studio 2015\Projects\WindowsApplication\CKPaint\CKPaint\obj\Debug\CKPaint.Properties.Resources.resources
+C:\Users\Security\Documents\Visual Studio 2015\Projects\WindowsApplication\CKPaint\CKPaint\obj\Debug\CKPaint.csproj.GenerateResource.Cache
+C:\Users\Security\Documents\Visual Studio 2015\Projects\WindowsApplication\CKPaint\CKPaint\obj\Debug\CKPaint.exe
+C:\Users\Security\Documents\Visual Studio 2015\Projects\WindowsApplication\CKPaint\CKPaint\obj\Debug\CKPaint.pdb
